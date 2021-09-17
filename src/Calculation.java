@@ -23,5 +23,6 @@ public class Calculation {
         System.out.println(calculation.subtraction(2,5));
         System.out.println(calculation.multiplication(2,5));
         System.out.println(calculation.division(4,2));
+        System.out.println("Hi");
     }
 }
